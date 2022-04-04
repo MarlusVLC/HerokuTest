@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "herokutest",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@gitlab.com/udemy-unity_restapi_nodejs/herokutest.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/udemy-unity_restapi_nodejs/herokutest/issues"
+  },
+  "homepage": "https://gitlab.com/udemy-unity_restapi_nodejs/herokutest#readme",
+  "description": ""
+}
